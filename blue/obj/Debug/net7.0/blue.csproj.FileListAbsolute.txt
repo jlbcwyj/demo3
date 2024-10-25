@@ -1,0 +1,14 @@
+C:\Users\Administrator\desktop\demo3\blue\bin\Debug\net7.0\blue.exe
+C:\Users\Administrator\desktop\demo3\blue\bin\Debug\net7.0\blue.deps.json
+C:\Users\Administrator\desktop\demo3\blue\bin\Debug\net7.0\blue.runtimeconfig.json
+C:\Users\Administrator\desktop\demo3\blue\bin\Debug\net7.0\blue.dll
+C:\Users\Administrator\desktop\demo3\blue\bin\Debug\net7.0\blue.pdb
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.AssemblyInfoInputs.cache
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.AssemblyInfo.cs
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.dll
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\refint\blue.dll
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.pdb
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\blue.genruntimeconfig.cache
+C:\Users\Administrator\desktop\demo3\blue\obj\Debug\net7.0\ref\blue.dll
