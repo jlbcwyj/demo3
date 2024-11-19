@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student>
+<student number="heima_0001">
+<name>张三</name>
+<age>23</age>
+<sex>男</sex>
+</student>
+<student number="heima_0002">
+<name>李四</name>
+<age>24</age>
+<sex>女</sex>
+</student>
+<student number="heima_0003">
+<name>王五</name>
+<age>25</age>
+<sex>男</sex>
+</student>
+</student>
